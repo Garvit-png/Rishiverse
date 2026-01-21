@@ -1,0 +1,8 @@
+{
+  "name": "Rishiverse Clone",
+  "description": "A high-fidelity, reactive clone of the Rishiverse campus portal featuring an exit pass management system, interactive timeline, and responsive dashboard layout.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
