@@ -56,7 +56,7 @@ const ProfileDrawer: React.FC<ProfileDrawerProps> = ({ isOpen, onClose, currentP
               <div className="space-y-3">
                 <AboutItem icon={<BadgeCheck className="w-4 h-4 text-green-500" />} label="Student ID" value={`RU-2024-${currentProfile.id}0${currentProfile.id}`} />
                 <AboutItem icon={<GraduationCap className="w-4 h-4 text-blue-500" />} label="Program" value="B.Tech Computer Science" />
-                <AboutItem icon={<User className="w-4 h-4 text-purple-500" />} label="Semester" value="6th Semester" />
+                <AboutItem icon={<User className="w-4 h-4 text-purple-500" />} label="Semester" value="2th Semester" />
                 <AboutItem icon={<Info className="w-4 h-4 text-gray-400" />} label="Hostel" value="Block A, Room 302" />
               </div>
               <button 
