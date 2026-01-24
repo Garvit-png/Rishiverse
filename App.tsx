@@ -14,6 +14,7 @@ const PROFILES: UserProfile[] = [
   { id: '3', name: 'YASH PRASAD', initials: 'YP' },
   { id: '4', name: 'CHIRAG TYAGI', initials: 'CT' },
   { id: '5', name: 'DHAVAL SETHI', initials: 'DS' },
+  { id: '6', name: 'Satvik Kesarwani', initials: 'SK' },
 ];
 
 const App: React.FC = () => {
